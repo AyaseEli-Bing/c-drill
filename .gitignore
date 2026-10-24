@@ -1,0 +1,7 @@
+cdrill
+cdrill.exe
+*.dSYM/
+*.o
+*.obj
+a.out
+.DS_Store
